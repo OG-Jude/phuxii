@@ -1,0 +1,88 @@
+*{
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif, sans-serif;
+ 
+}
+.topc{
+ color: hotpink;
+ background-color: white;
+ text-align: center;
+ padding:1px;
+ margin-left: 8px;
+ margin-right: 8px;
+ 
+ border-bottom-right-radius: 16px 16px ;
+ border-bottom-left-radius: 16px 16px;
+ box-shadow: 0px 0px 4px -1px deeppink;
+ 
+}
+body{
+ padding: 0px;
+ margin: 0px;
+}
+.not{
+ color: ghostwhite;
+ background-color: darkslateblue;
+ font-size: 10px;
+ margin-left: 0px
+}
+
+.pr{
+ background-color: white;
+ border-radius: 16px ;
+ box-shadow: 0px 0px 6px -1px hotpink;
+ height: 120px;
+ padding:20px
+}
+
+.vla{
+ color: white;
+ background-color: purple;
+ border-radius: 12px;
+text-align: center;
+padding: 0px 40px 0px 40px;
+font-size: 20px
+}
+
+div#cntnr{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ 
+ color: hotpink;
+ background-color: white;
+ text-align: center;
+ padding:1px;
+ margin: 10px;
+ 
+ border-radius: 16px;
+ box-shadow: 0px 0px 4px -1px deeppink;
+ margin-top: 3%
+ 
+}
+
+.phx{
+ height: 160px;
+ padding: 13px;
+ border-radius: 55px
+}
+
+.txtp{
+ padding: 10px;
+}
+
+div#ftrr{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ background-color: dimgray;
+ border-right: 6px solid red;
+ color: gainsboro;
+ font-size: 8px
+ 
+}
+ 
+ .gjj{
+  height:120px;
+  margin: 8px;
+ }
